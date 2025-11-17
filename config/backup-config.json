@@ -1,0 +1,17 @@
+{
+  "backupRoot": "%USERPROFILE%\\Backups\\configs",
+  "paths": [
+    {
+      "name": "VSCode",
+      "path": "%APPDATA%\\Code\\User"
+    },
+    {
+        "name": "Windows Terminal",
+        "path": "%LOCALAPPDATA%\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState"
+    },
+    {
+      "name": "PowerShell",
+      "path": "%USERPROFILE%\\Documents\\PowerShell"
+    }
+  ]
+}
